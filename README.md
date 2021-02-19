@@ -17,6 +17,7 @@ This CLI app will help you log a hike, find trails or see what trails other hike
 This is our first project in the Flatiron program!
 
 ## Intro Video
+[Take-A-Hike! on YouTube](https://www.youtube.com/watch?v=eROjYjnk7RI)
 
 ## Technologies
 * Ruby - version 2.6.1
